@@ -1,0 +1,13 @@
+{
+    "name": "boulangerie/alftray",
+    "description": "A light PHP Framework to help you to build awesome alfred 2 workflows",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "VIDAL Julien",
+            "email": "julien.vidal.jv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
